@@ -50,6 +50,7 @@ Job boards focused on software engineering, DevOps, AI, data, and technical care
 - [NoDesk](https://nodesk.co/remote-jobs/) — Remote opportunities across technology and startups.
 - [JS Remotely](https://jsremotely.com/) — Remote JavaScript and web development jobs.
 - [DevITJobs](https://devitjobs.com/) — Technology-focused job board.
+- [Dataaxy](https://dataaxy.com/) — Data and AI job board for North America and Europe, filterable by remote.
 
 ## Startup & Growth Companies
 
