@@ -50,6 +50,7 @@ Job boards focused on software engineering, DevOps, AI, data, and technical care
 - [NoDesk](https://nodesk.co/remote-jobs/) — Remote opportunities across technology and startups.
 - [JS Remotely](https://jsremotely.com/) — Remote JavaScript and web development jobs.
 - [DevITJobs](https://devitjobs.com/) — Technology-focused job board.
+- [EuroJobs.ai](https://eurojobs.ai/) — 28,000+ IT jobs across Europe aggregated hourly from 21,000 employer career pages (Greenhouse, Lever, Ashby, Workable and others). Filters for remote, visa sponsorship, and English-speaking teams.
 
 ## Startup & Growth Companies
 
